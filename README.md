@@ -6,7 +6,7 @@ Dynamic Excel dashboard for debt-to-income (DTI) analysis and automated liabilit
 ## Project Overview
 An automated financial tracking system built in Excel to manage debt repayment strategies, monitor monthly cash flow, and visualize Debt-to-Income (DTI) trends from 2026 through mid-2027.
 
-![Dashboard Preview](image_filename.png)
+![Dashboard Preview](DASHBOARD.png)
 
 ## Key Insights & Data Analysis
 As part of this project, I performed a trend analysis on the debt lifecycle:
