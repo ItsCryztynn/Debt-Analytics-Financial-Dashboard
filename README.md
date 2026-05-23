@@ -1,8 +1,6 @@
 # Debt-Analytics-Financial-Dashboard
 Dynamic Excel dashboard for debt-to-income (DTI) analysis and automated liability tracking. Built to visualize financial recovery trends (2026-2027).
 
-# Personal Debt & Financial Health Analytics Dashboard
-
 ## Project Overview
 An automated financial tracking system built in Excel to manage debt repayment strategies, monitor monthly cash flow, and visualize Debt-to-Income (DTI) trends from 2026 through mid-2027.
 
